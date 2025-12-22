@@ -33,11 +33,11 @@
 
 ### Блок-схема
 
-<img src="diagram1.png" alt="Блок-схема задания 1" width="600">
+<img src="diagram1.png" alt="Блок-схема задания 1" width="400">
 
 ### Скриншот программы
 
-<img src="output.png" alt="Результат выполнения задания 1" width="600">
+<img src="output.png" alt="Результат выполнения задания 1" width="400">
 
 ---
 
