@@ -33,11 +33,11 @@
 
 ### Блок-схема
 
-<img src="diagram1.png" alt="Блок-схема задания 1" width="400">
+<img src="diagram1.png" alt="Блок-схема задания 1" width="200">
 
 ### Скриншот программы
 
-<img src="output.png" alt="Результат выполнения задания 1" width="400">
+<img src="output.png" alt="Результат выполнения задания 1" width="600">
 
 ---
 
@@ -60,7 +60,7 @@
 
 ### Блок-схема
 
-<img src="diagram2.png" alt="Блок-схема задания 2" width="600">
+<img src="diagram2.png" alt="Блок-схема задания 2" width="200">
 
 ---
 
@@ -81,7 +81,7 @@
 
 ### Блок-схема
 
-<img src="diagram3.png" alt="Блок-схема задания 3" width="600">
+<img src="diagram3.png" alt="Блок-схема задания 3" width="200">
 
 ---
 
@@ -103,7 +103,7 @@
 
 ### Блок-схема
 
-<img src="diagram4.png" alt="Блок-схема задания 4" width="600">
+<img src="diagram4.png" alt="Блок-схема задания 4" width="200">
 
 ---
 
