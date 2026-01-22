@@ -2,19 +2,19 @@
 
 Блок схема 1 задания
 
-<img src="diagram1_ass3.png" width="900">
+<img src="diagram1_ass3.png" width="1100">
 
 Блок схема 2 задания
 
-<img src="diagram2_ass3.png" width="900">
+<img src="diagram2_ass3.png" width="1100">
 
 Блок схема 3 задания
 
-<img src="diagram3_ass3.png" width="900">
+<img src="diagram3_ass3.png" width="1100">
 
 Блок схема 4 задания
 
-<img src="diagram4_ass3.png" width="900">
+<img src="diagram4_ass3.png" width="1100">
 
 Контрольные вопросы к Assignment 3
 
