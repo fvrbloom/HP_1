@@ -13,7 +13,6 @@
 <img src="diagram3_ass3.png" width="400">
 
 Блок схема 4 задания
-
 <img src="diagram4_ass3.png" width="400">
 
 Контрольные вопросы к Assignment 3
