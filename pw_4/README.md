@@ -6,15 +6,15 @@
 
 Блок схема 2 задания
 
-<img src="diagram2.png" width="800">
+<img src="diagram2.png" width="1000">
 
 Блок схема 3 задания
 
-<img src="diagram3.png" width="700">
+<img src="diagram3.png" width="1000">
 
 Блок схема 4 задания
 
-<img src="diagram4.png" width="700">
+<img src="diagram4.png" width="1000">
 
 Контрольные вопросы
 1. Чем отличаются типы памяти в CUDA и в каких случаях их использовать?
